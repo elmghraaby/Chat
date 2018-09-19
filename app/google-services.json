@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "441687437587",
+    "firebase_url": "https://klamny-a5a3c.firebaseio.com",
+    "project_id": "klamny-a5a3c",
+    "storage_bucket": "klamny-a5a3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441687437587:android:f284a33411948b06",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441687437587-ra1cbech1tscr8il8bc8j1r7ggbdn173.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmed.chat",
+            "certificate_hash": "0207800592d7b0ddb4b4cdc741a432744978bb60"
+          }
+        },
+        {
+          "client_id": "441687437587-0nuqjaasu119d6eb25uq5n82hrmcb7nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEQyTQwYBwHg-5UVphBvFyxEhbCVf7HcM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441687437587-0nuqjaasu119d6eb25uq5n82hrmcb7nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
